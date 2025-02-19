@@ -4,6 +4,13 @@
 
 ## How to deploy
 
+Clone the repository using the following command
+
+```sh
+git clone https://github.com/Andesson-dev/white.git
+```
+
+
 You can easily deploy using the following docker comand
 
 ```sh
