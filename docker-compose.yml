@@ -1,6 +1,6 @@
 services:
   black:
-    image: andessondev/white
+    image: andessondev/white:latest
     ports:
       - 7000:7000
   
