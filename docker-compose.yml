@@ -1,0 +1,6 @@
+services:
+  black:
+    image: andessondev/white
+    ports:
+      - 7000:7000
+  
